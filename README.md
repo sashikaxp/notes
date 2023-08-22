@@ -1,2 +1,2 @@
 # notes
-Various notes. See Wiki tab
+Various notes.
